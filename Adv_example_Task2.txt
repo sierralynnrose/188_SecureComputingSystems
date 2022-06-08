@@ -1,3 +1,0 @@
-Adv_example_Task2.ipynb :
-
-https://colab.research.google.com/drive/1fm5nIlcZXLFAlI3dsrVjTae-V-xSRZEG?usp=sharing
